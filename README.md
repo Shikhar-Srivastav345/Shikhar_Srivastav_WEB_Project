@@ -1,1 +1,2 @@
-# Shikhar_Srivastav_WEB_Project
+Hello I am Shikhar Srivastav this is my git repository for web development project . This repository contains source code of the page , readme file about its description and the image used in the project.
+The project is based on the launching of a new drone product whose speciality is its all terrain formidability and its low pricing and effective control.It also gives the comparison between the older model and the newer version and the hardware updated from the earlier version.
